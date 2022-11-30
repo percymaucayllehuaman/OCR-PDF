@@ -1,0 +1,24 @@
+
+::root{    
+    --primary-color: #161616;
+    --secondary-color: rgba(209,213,218,.5);
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+main ._header{
+}
+main ._header{
+  /* background: var(--primary-color); */
+}
+
+
+main ._body .div_conatiner_nav{
+    /* background: rgb(225, 229, 233); */
+    border-bottom: 1px solid #afb8c1; /* #d0d7de */
+    
+}
